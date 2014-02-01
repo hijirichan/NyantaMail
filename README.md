@@ -14,9 +14,6 @@ Discription : This application is a Windows e-mail client software that supports
 * ソースコード、リソースの改変は全て可能とする。
 * 著作権者の条件を付け加えることが可能。(改変したソースコードの公開を必須とする)  
   
-ホームページにもソースコードを公開しています。  
-http://www.angel-teatime.com/soft/mailview.htm  
-  
 2014.02.01 Sakura Mizuki(Angelic Software)  
 URL   ：http://www.angel-teatime.com/
 
